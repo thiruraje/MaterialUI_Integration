@@ -1,0 +1,49 @@
+:root {
+  --primary-main: #263f7b;
+  --primary-50: #f4f5f8;
+  --primary-100: #e9ebf1;
+  --primary-150: #d3d7e3;
+  --primary-200: #bcc3d6;
+  --primary-300: #929fbd;
+  --primary-400: #516595;
+  --primary-500: #263f7b;
+  --primary-700: #1b2d57;
+  --primary-800: #152344;
+
+  --accentOrange: #fca24e;
+  --accentOrangeLight: #fdddca;
+  --accentGreen: #00d3a7;
+  --accentGreenLight: #d6faed;
+  --accentDarkGreen: #225e60;
+  --accentDarkBlue: #354d6f;
+  --accentBlue: #4a90e2;
+  --accentBlueLight: #def3ff;
+
+  --success-main: #36b23b;
+  --error: #d0362d;
+  --error-main: #b3261e;
+  --warning-main: #f4972b;
+
+  --grey-100: #f7f8fa;
+  --grey-200: #e7e8eb;
+  --grey-300: #c3c6cc;
+  --grey-400: #a7abb5;
+  --grey-500: #878c99;
+  --grey-600: #5e6676;
+  --grey-800: #2f394e;
+
+  --common-black: #0f1a33;
+  --common-white: #ffffff;
+  --common-grey: #f9fafb;
+
+  --status-completed: #d6faed;
+  --status-readyForReview: #def3ff;
+  --status-new: #e9ebf1;
+  --status-followUp: #fff5d0;
+
+  --yellow: #ffc553;
+  --purple: #a55fff;
+  --blue: #4a90e2;
+  --lightBlue: #21c8df;
+  --darkBlue: #263f7b;
+}
